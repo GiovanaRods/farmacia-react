@@ -11,7 +11,7 @@ function Home() {
               <p className='text-xl'>Farmácia de esteróides anabolizantes</p>
   
               <div className="flex justify-around gap-4">
-              <button className='rounded font-bold bg-gray-100 text-teal-800 py-2 px-4'>Ver todos os produtos</button>
+              <button className='rounded font-bold bg-gray-100 text-teal-800 py-2 px-4'>Ver categorias</button>
             </div>
             </div>
   
